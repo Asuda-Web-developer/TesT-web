@@ -1,0 +1,42 @@
+#section-brand-logo{
+    padding: 100px;
+}
+
+.logo-showcase-container{
+ 
+    width: 1261px;
+    margin-top: -185px;
+    margin-left: -77px;
+    padding: 53px 48px 17px 11px;
+    padding-top: 42px;
+    overflow: hidden; 
+    position: relative;
+    border: 1px solid #e5e5e5;
+    white-space: nowrap
+    border-radius: 2px
+
+}
+
+.logo-showcase img{
+    width: 50px;
+    margin-top: 21px;
+}
+.logo-showcase {
+
+}
+.logo-showcase .logo{
+    display: flex;
+    align-items: center;
+    /* padding: 32px; */
+}
+.logo-showcase-container .glider-next,.logo-showcase-container.glider-prev{
+    position: absolute;
+    top: 156px;
+}
+
+.logo-showcase-container .glider-prev{
+    left: 8px;
+}
+.logo-showcase-container .glider-next{
+    right: 8px;
+}
